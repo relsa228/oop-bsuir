@@ -6,6 +6,7 @@
 
 namespace Forecast::Clients {
 
+    // Implementation of WeatherDataClient
     OpenWeatherDataClient::OpenWeatherDataClient(const std::string& baseUrl, const std::string& apiKey)
         : baseUrl(baseUrl), apiKey(apiKey) {
     }
