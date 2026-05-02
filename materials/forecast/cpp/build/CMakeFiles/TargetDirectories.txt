@@ -1,0 +1,3 @@
+/home/loliwasd/Study/orders-cpp/materials/logistics_cpp/build/CMakeFiles/logistics_cpp.dir
+/home/loliwasd/Study/orders-cpp/materials/logistics_cpp/build/CMakeFiles/edit_cache.dir
+/home/loliwasd/Study/orders-cpp/materials/logistics_cpp/build/CMakeFiles/rebuild_cache.dir

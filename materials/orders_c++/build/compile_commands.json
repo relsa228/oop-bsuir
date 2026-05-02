@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/loliwasd/Study/orders-cpp/materials/orders_c++/build",
+  "command": "/usr/bin/c++   -g -std=c++20 -o CMakeFiles/orders_c++.dir/main.cpp.o -c /home/loliwasd/Study/orders-cpp/materials/orders_c++/main.cpp",
+  "file": "/home/loliwasd/Study/orders-cpp/materials/orders_c++/main.cpp",
+  "output": "CMakeFiles/orders_c++.dir/main.cpp.o"
+}
+]

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/loliwasd/Study/orders-cpp/materials/logistics_cpp/build",
+  "command": "/usr/bin/c++  -I/home/loliwasd/Study/orders-cpp/materials/logistics_cpp/Api -I/home/loliwasd/Study/orders-cpp/materials/logistics_cpp/Clients -I/home/loliwasd/Study/orders-cpp/materials/logistics_cpp/Controllers -I/home/loliwasd/Study/orders-cpp/materials/logistics_cpp/Models/Weather -I/home/loliwasd/Study/orders-cpp/materials/logistics_cpp/Shared/Responses -I/home/loliwasd/Study/orders-cpp/materials/logistics_cpp/Utils -g -o CMakeFiles/logistics_cpp.dir/main.cpp.o -c /home/loliwasd/Study/orders-cpp/materials/logistics_cpp/main.cpp",
+  "file": "/home/loliwasd/Study/orders-cpp/materials/logistics_cpp/main.cpp",
+  "output": "CMakeFiles/logistics_cpp.dir/main.cpp.o"
+}
+]
